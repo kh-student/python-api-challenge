@@ -20,7 +20,7 @@ git clone git@github.com:kh-student/python-api-challenge.git
 
 2. cd to assignment folder
 ```
-cd ./python-api-challenge/WeatherPy
+cd ./python-api-challenge
 ```
 
 3. open jupyter notebook from assignment folder
@@ -37,7 +37,7 @@ git clone git@github.com:kh-student/python-api-challenge.git
 
 2. cd to assignment folder
 ```
-cd ./python-api-challenge/VacationPy
+cd ./python-api-challenge
 ```
 
 3. open jupyter notebook from assignment folder
